@@ -2,10 +2,6 @@ body
 {
     color: black;
     text-align: center;
-<<<<<<< HEAD
-    font-family: "Courier";
-    color: deeppink;
-=======
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
@@ -47,5 +43,4 @@ body
 {
     padding: 1em;
 
->>>>>>> cabecera
 }
